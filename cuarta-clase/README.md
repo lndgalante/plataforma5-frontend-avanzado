@@ -1,20 +1,27 @@
-## TODO
+## Workshop
 
-- Mostrar listado de episodios en la vista del personaje /character/:id
+### Primer parte
 
-- Crear una ruta /episode/:id
-- Al clickear en un episodio en la ruta /character/:id me lleva a la ruta anteriormente generada
-- Pedir con una query toda la información de episodio
-- Mostrar en la UI toda la información del episodio
+- [ ] Mostrar listado de episodios en la vista del personaje /character/:id
+- [ ] El listado tiene que ser paginado, y poder pedir por página
 
-- Pedir del lado del servidor las queries para Urql y que el cliente ya llegue con los datos cargados (SSR)
-  - https://nextjs.org/docs/basic-features/data-fetching#getserversideprops-server-side-rendering
-  - https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation
-  - https://formidable.com/open-source/urql/docs/advanced/server-side-rendering/#using-getstaticprops-or-getserversideprops
+  - [ ] Usar el argumento page de la query episodes
 
-## TODO Opcional
+### Segunda Parte
 
-- Repetir los mismos pasos anteriores para Location
+- [ ] Crear una ruta /episode/:id
+- [ ] Al clickear en un episodio en la ruta /character/:id me lleva a la ruta anteriormente generada
+- [ ] Pedir con una query toda la información de episodio
+- [ ] Mostrar en la UI toda la información del episodio
+
+### Tercer parte
+
+- [ ] Utilizar next-seo para agregar meta tags específico para cada página creada
+- [ ] Pedir del lado del servidor las queries para Urql y que el cliente ya llegue con los datos cargados (SSR)
+      Links
+      https://nextjs.org/docs/basic-features/data-fetching#getserversideprops-server-side-rendering
+      https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation
+      https://formidable.com/open-source/urql/docs/advanced/server-side-rendering/#using-getstaticprops-or-getserversideprops
 
 ## Links
 
