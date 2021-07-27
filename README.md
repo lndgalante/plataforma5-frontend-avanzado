@@ -4,10 +4,10 @@
 
 Alumnos 12
 
-- Jueves 15 (Repaso, Context, Redux, Hooks)
-- Lunes 19 (Introducción a SSR / Next.js)
-- Jueves 22 (GraphQL)
-- Lunes 26 (Gatsby)
+- Jueves 15 (Repaso, Context, Redux, Hooks) X
+- Lunes 19 (Introducción a SSR / Next.js) X
+- Jueves 22 (GraphQL) X
+- Lunes 26 (Repaso) X
 - Jueves 29 (Workshop)
 
 ## Horario
