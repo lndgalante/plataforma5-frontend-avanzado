@@ -2,14 +2,14 @@
 
 ### Primer parte
 
-- [ ] Mostrar listado de episodios en la vista del personaje /character/:id
-- [ ] El listado tiene que ser paginado, y poder pedir por página
+- [ ] Mostrar listado de episodios en la vista del personaje /character/:id, y cualquier otra información que sea relevante
+- [ ] El listado tiene que ser paginado, y poder pedir episodios por página
 
-  - [ ] Usar el argumento page de la query episodes
+  Hint: Usar el argumento page de la query episodes
 
 ### Segunda Parte
 
-- [ ] Crear una ruta /episode/:id
+- [ ] Crear una página para `/episode/:id`, siendo en el file-system `pages/episode/[id].tsx`
 - [ ] Al clickear en un episodio en la ruta /character/:id me lleva a la ruta anteriormente generada
 - [ ] Pedir con una query toda la información de episodio
 - [ ] Mostrar en la UI toda la información del episodio
